@@ -169,4 +169,5 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 ---
 
 ## 📧 Author
-B Kenzie - ITB JR SEMESTER 5 TUBES PAWM
+Kenzie Raffa Ardhana (18223127)
+Rasyid Rizky S N (18223114)
